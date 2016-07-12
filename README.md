@@ -11,13 +11,15 @@ We added a 2D viewer (molecular network) as a window/widget within iCn3D. iCn3D 
 
 # Contributors
 
-- Jiyao Wang
-- Eli Draizen
-- Keiichiro Oto
-- Jose Duarte
-- Peter Kerpedjiev
-- Philippe Youkharibache
-- Quiangling (Leon) Li
-- Spencer Bliven
+Qiangling (Leon) Li
+Spencer Bliven
+Eli Draizen
+Jose Duarte
+Keiichiro Oto
+Tim Schaefer
+Jiyao Wang
+Philippe Youkharibache
+
+
 
 
